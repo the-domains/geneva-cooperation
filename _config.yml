@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.732824603561312
+  lightness: 0.9478147828485817
+  saturation: 0.029877749970182776
+  rhythmicContrast: 0.9378304909914732
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Geneva Cooperation
+layout_spectrum: 0.17685801512561738
+typography_spectrum: 0.8301564913708717
+content: []
+title: Let's Work Together
+description: Work together for the common good
+github: true
